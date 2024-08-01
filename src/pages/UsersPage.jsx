@@ -1,7 +1,7 @@
 function UsersPage(){
     return(
         <div>
-            Users
+            <h2 className="title">Users</h2>
         </div>
     )
 }

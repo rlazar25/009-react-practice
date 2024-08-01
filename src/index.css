@@ -5,3 +5,8 @@
 .active{
     color: orangered;
 }
+
+.title{
+    text-align: center;
+    font-size: 2rem;
+}
