@@ -14,6 +14,10 @@ function NavbarComponent(){
         {
             name: 'Users',
             url: '/users',
+        },
+        {
+            name: 'Favorite',
+            url: '/favorite'
         }
     ]
 
